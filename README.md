@@ -2,10 +2,6 @@
 
 ### End-to-End Experiment Analysis: Segmentation, Statistical Testing & Executive Dashboard
 
-[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/shruthi.sree.thirunavukkarasu/viz/InstacartGrowthEngineSegmentationExperimentAnalysis/InstacartGrowthEngineSegmentationExperimentAnalysis)
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 ---
 
 ## 🎯 Business Problem
