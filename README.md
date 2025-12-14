@@ -20,6 +20,7 @@ An e-commerce platform observed **declining conversion rates** (orders per activ
 - **Size:** 3.4M orders, 22.5M line items, 206K users
 - **Key Tables:** `orders`, `order_products`, `products`, `departments`
 
+> **Note:** Raw input files (~500MB) are not included in this repository due to size constraints. 
 ---
 
 ## 🔬 Methodology
