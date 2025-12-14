@@ -1,0 +1,4 @@
+activity_tier,users,total_orders,orders_per_user
+low_activity,73591,387834,5.270128140669375
+medium_activity,67322,756022,11.229939692819583
+high_activity,65296,2277227,34.87544413134036

@@ -1,0 +1,3 @@
+group,is_new_user,users,n_orders,orders_per_user
+control,0,103145,1711889,16.59691696155897
+treatment,0,103064,1709194,16.583812000310488
