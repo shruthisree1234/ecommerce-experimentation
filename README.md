@@ -1,7 +1,6 @@
-# 📊 E-Commerce Conversion & Product Discovery A/B Test
+# 📊 E-Commerce Growth Engine: Experimentation & User Segmentation at Scale
 
-### End-to-End Experiment Analysis: Segmentation, Statistical Testing & Executive Dashboard
-
+### A/B Test Analysis (206K Users, 3.4M Orders): Statistical Testing, Funnel Optimization & Executive Dashboard
 ---
 
 ## 🎯 Business Problem
@@ -104,7 +103,4 @@ An e-commerce platform observed **declining conversion rates** (orders per activ
 
 ![Dashboard Preview](https://public.tableau.com/static/images/In/InstacartGrowthEngineSegmentationExperimentAnalysis/InstacartGrowthEngineSegmentationExperimentAnalysis/1.png)
 
----
-
-## 📂 Repository Structure
 
